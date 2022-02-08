@@ -6,18 +6,15 @@
 <h4 align="center">Aspiring Engineer.</h4>
 
 <p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
-         alt="GitHub tweet">
+    <a href="https://github.com/matthew-william-lock/matthew-william-lock">
+    <img src="https://img.shields.io/github/last-commit/matthew-william-lock/matthew-william-lock?label=last%20updated&style=flat-square"
+         alt="Last update">
+    <a href="http://www.ee.uct.ac.za/bachelor-science-engineering-electrical-and-computer-engineering">
+    <img src="https://img.shields.io/badge/BSc%20Electrical%20and%20Computer%20Engineering-University%20of%20Cape%20Town-%230099FF"
+         alt="BSc Electrical and Computer Engineering">
+    <a href="https://www.kth.se/login/oauth2?error">
+    <img src="https://img.shields.io/badge/MSc%20Embedded%20Systems%20Engineering%20(Current)-KTH%20Royal%20Institute%20of%20Technology-%231954A6"
+         alt="MSc Embedded Systems Engineering">
 </p>
       
 <p align="center">
