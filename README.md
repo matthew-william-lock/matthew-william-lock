@@ -1,11 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.png" alt="ArminC AutoExec"></a>
-</h1>
-
-<h1 align="center">
-  <br>
-  ![banner](/images/banner.png)
+  <a href="https://github.com/matthew-william-lock"><img src="https://github.com/matthew-william-lock/matthew-william-lock/blob/main/images/banner.png" alt="ArminC AutoExec"></a>
 </h1>
 
 <h4 align="center">Aspiring Engineer.</h4>
