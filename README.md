@@ -1,10 +1,37 @@
-### 🛠 README IS STILL A WORK IN PROGRESS 🛠
+<h1 align="center">
+  <br>
+  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.png" alt="ArminC AutoExec"></a>
+</h1>
 
-### Welcome to my profile! 👋
+<h1 align="center">
+  <br>
+  ![banner](/images/banner.png)
+</h1>
+
+<h4 align="center">Aspiring Engineer.</h4>
+
+<p align="center">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
+    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub last commit">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
+    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub issues">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub pull requests">
+    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
+    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
+         alt="GitHub tweet">
+</p>
+      
+<p align="center">
+  <a href="#about">Website</a> •
+  <a href="#installation">Projects</a> •
+  <a href="#license">Contact</a>
+</p>
 
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matthew-william-lock)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 &nbsp;Tech Stack
 
