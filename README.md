@@ -3,7 +3,7 @@
   <a href="https://github.com/matthew-william-lock"><img src="https://github.com/matthew-william-lock/matthew-william-lock/blob/main/images/banner.png" alt="ArminC AutoExec"></a>
 </h1>
 
-<h4 align="center">Aspiring Engineer.</h4>
+<h4 align="center">Aspiring Engineer currently studying an MSc in Embedded Systems Engineering, Control Systems track at the KTH Royal Institute of Technology in Stockholm, Sweden.</h4>
 
 <p align="center">
     <a href="https://github.com/matthew-william-lock/matthew-william-lock">
@@ -12,7 +12,7 @@
     <a href="http://www.ee.uct.ac.za/bachelor-science-engineering-electrical-and-computer-engineering">
     <img src="https://img.shields.io/badge/BSc%20Electrical%20and%20Computer%20Engineering-University%20of%20Cape%20Town-%230099FF"
          alt="BSc Electrical and Computer Engineering">
-    <a href="https://www.kth.se/login/oauth2?error">
+    <a href="https://www.kth.se/en/studies/master/embedded-systems/msc-embedded-systems-1.70455">
     <img src="https://img.shields.io/badge/MSc%20Embedded%20Systems%20Engineering%20(Current)-KTH%20Royal%20Institute%20of%20Technology-%231954A6"
          alt="MSc Embedded Systems Engineering">
 </p>
@@ -23,6 +23,9 @@
   <a href="#license">Contact</a>
 </p>
 
+## :open_hands: About Me 
+
+Readme is still under construction
 
 
 ### 🛠 &nbsp;Tech Stack
