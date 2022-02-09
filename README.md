@@ -28,7 +28,7 @@
 
 Hey, my name is Matthew and I'm an Electrical and Computer Engineer from Cape Town, South Africa! Being a curious kid, I loved investigating the mysteries of Ancient Egypt and learning all I could about those burning balls of gas in the sky. Curioisity drove my passion for science, while my father's bakground as a radar technician fostered enthusiasm for building and tinkering. This led me down the path to Engineering and in July 2021 I was awarded a BSc. Electrical and Computer Engineering from the [University of Cape Town](http://www.uct.ac.za/).
 
-Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a student at the [KTH Royal Institute of Technology](https://www.kth.se/) studing towards an MSc in Embedded Systems Engineering with a focus on Control Systems Engineering. My interests include the application of embedded systems and machine learning to robotics and autonomous systems for sustainable development and novel technologies.
+Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a student at the [KTH Royal Institute of Technology](https://www.kth.se/) studing towards an MSc in Embedded Systems Engineering with a focus on Control Systems Engineering. My interests include the application of embedded systems and machine learning to robotics and autonomous systems for sustainable development.
 
 
 ### 🛠 &nbsp;Tech Stack
