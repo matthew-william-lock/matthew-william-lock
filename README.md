@@ -1,14 +1,15 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/matthew-william-lock"><img src="https://github.com/matthew-william-lock/matthew-william-lock/blob/main/images/banner.png" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/matthew-william-lock"><img src="https://github.com/matthew-william-lock/matthew-william-lock/blob/main/images/banner.png" alt="Matthew William Lock"></a>
 </h1>
 
 <h4 align="center"><i>Aspiring Engineer studying towards an MSc in Embedded Systems Engineering at the KTH Royal Institute of Technology.</i></h4>
 
 <p align="center">
     <a href="https://github.com/matthew-william-lock/matthew-william-lock">
-    <img src="https://img.shields.io/github/last-commit/matthew-william-lock/matthew-william-lock?label=last%20updated&style=flat-square"
+    <img src="https://img.shields.io/github/last-commit/matthew-william-lock/matthew-william-lock?label=Last%20updated&style=flat-square"
          alt="Last update">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=matthew-william-lock"/>    
     <a href="http://www.ee.uct.ac.za/bachelor-science-engineering-electrical-and-computer-engineering">
     <img src="https://img.shields.io/badge/BSc%20Electrical%20and%20Computer%20Engineering-University%20of%20Cape%20Town-%230099FF"
          alt="BSc Electrical and Computer Engineering">
@@ -25,7 +26,9 @@
 
 ## :open_hands: About Me 
 
-Readme is still under construction
+Hey, my name is Matthew and I'm an Electrical and Computer Engineer from Cape Town, South Africa! Being a curious kid, I loved investigating the mysteries of Ancient Egypt and learning all I could about those burning balls of gas in the sky. Curioisity drove my passion for science, while my father's bakground as a radar technician fostered enthusiasm for building and tinkering. This led me down the path to Engineering and in July 2021 I was awarded a BSc. Electrical and Computer Engineering from the [University of Cape Town](http://www.uct.ac.za/).
+
+Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a student at the [KTH Royal Institute of Technology](https://www.kth.se/) studing towards an MSc in Embedded Systems Engineering with a focus on Control Systems Engineering. My interests include the application of embedded systems and machine learning to robotics and autonomous systems for sustainable development and novel technologies.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -47,7 +50,7 @@ Readme is still under construction
 
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=matthew-william-lock"/>       
+   
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-william-lock)](https://github.com/anuraghazra/github-readme-stats)
