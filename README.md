@@ -30,7 +30,7 @@ Hey, my name is Matthew and I'm an Electrical and Computer Engineer from Cape To
 
 Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a student at the [KTH Royal Institute of Technology](https://www.kth.se/) studing towards an MSc in Embedded Systems Engineering with a focus on Control Systems Engineering. My interests include the application of embedded systems and machine learning to robotics and autonomous systems for sustainable development.
 
-
+<!--
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -58,6 +58,7 @@ Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-william-lock)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **matthew-william-lock/matthew-william-lock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
