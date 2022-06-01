@@ -30,9 +30,9 @@ Hey, my name is Matthew and I'm an Electrical and Computer Engineer from Cape To
 
 Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a student at the [KTH Royal Institute of Technology](https://www.kth.se/) studing towards an MSc in Embedded Systems Engineering with a focus on Control Systems Engineering. My interests include the application of embedded systems and machine learning to robotics and autonomous systems for sustainable development.
 
-## Embedded Systems Projects :electric_plug:
+## :electric_plug: Embedded Systems Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lawrence-Godfrey&repo=Sonar-Design&title_color=1954A6)](https://github.com/matthew-william-lock/Real-Time-Chat-Room)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Sonar-Imaging-System&title_color=1954A6)](https://github.com/matthew-william-lock/Sonar-Imaging-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Image-Masking-Accelerator&title_color=1954A6)](https://github.com/matthew-william-lock/Image-Masking-Accelerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WaveformGenerator&title_color=1954A6)](https://github.com/matthew-william-lock/FPGA-WaveformGenerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WallClock&title_color=1954A6)](https://github.com/matthew-william-lock/FPGA-WallClock)
