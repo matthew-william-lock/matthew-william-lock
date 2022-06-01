@@ -25,6 +25,7 @@
 </p>
 
 <!-- ## :open_hands: About Me  -->
+ <hr />
 
 Hey, my name is Matthew and I'm an Electrical and Computer Engineer from Cape Town, South Africa! Being a curious kid, I loved investigating the mysteries of Ancient Egypt and learning all I could about those burning balls of gas in the sky. Curioisity drove my passion for science, while my father's bakground as a radar technician fostered enthusiasm for building and tinkering. This led me down the path to Engineering and in July 2021 I was awarded a BSc. Electrical and Computer Engineering from the [University of Cape Town](http://www.uct.ac.za/).
 
