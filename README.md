@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/BSc%20Electrical%20and%20Computer%20Engineering-University%20of%20Cape%20Town-%230099FF"
          alt="BSc Electrical and Computer Engineering">
     <a href="https://www.kth.se/en/studies/master/embedded-systems/msc-embedded-systems-1.70455">
-    <img src="https://img.shields.io/badge/MSc%20Embedded%20Systems%20Engineering%20(Current)-KTH%20Royal%20Institute%20of%20Technology-%231954A6"
+    <img src="https://img.shields.io/badge/MSc%20Embedded%20Systems%20Engineering%20(Current)-KTH%20Royal%20Institute%20of%20Technology-%231954A5"
          alt="MSc Embedded Systems Engineering">
 </p>
       
@@ -33,16 +33,16 @@ Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/)
 
 ## :electric_plug: Embedded Systems Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Sonar-Imaging-System&title_color=1954A6)](https://github.com/matthew-william-lock/Sonar-Imaging-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Image-Masking-Accelerator&title_color=1954A6)](https://github.com/matthew-william-lock/Image-Masking-Accelerator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WaveformGenerator&title_color=1954A6)](https://github.com/matthew-william-lock/FPGA-WaveformGenerator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WallClock&title_color=1954A6)](https://github.com/matthew-william-lock/FPGA-WallClock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Sonar-Imaging-System&title_color=1954A5)](https://github.com/matthew-william-lock/Sonar-Imaging-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Image-Masking-Accelerator&title_color=1954A5)](https://github.com/matthew-william-lock/Image-Masking-Accelerator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WaveformGenerator&title_color=1954A5)](https://github.com/matthew-william-lock/FPGA-WaveformGenerator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WallClock&title_color=1954A5)](https://github.com/matthew-william-lock/FPGA-WallClock)
 
 ## :earth_africa: Backend, Front-End & Full-Stack Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Real-Time-Chat-Room&title_color=1954A6)](https://github.com/matthew-william-lock/Real-Time-Chat-Room)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Simple-Weather-Web-Application&title_color=1954A6)](https://github.com/matthew-william-lock/Simple-Weather-Web-Application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=task-manager-application&title_color=1954A6)](https://github.com/matthew-william-lock/task-manager-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Real-Time-Chat-Room&title_color=1954A5)](https://github.com/matthew-william-lock/Real-Time-Chat-Room)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Simple-Weather-Web-Application&title_color=1954A5)](https://github.com/matthew-william-lock/Simple-Weather-Web-Application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=task-manager-application&title_color=1954A5)](https://github.com/matthew-william-lock/task-manager-application)
 
 
 <!--
