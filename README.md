@@ -33,15 +33,14 @@ Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/)
 
 ## :electric_plug: Embedded Systems Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=outreach-dashboard&title_color=1954A5)](https://github.com/matthew-william-lock/outreach-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Sonar-Imaging-System&title_color=1954A5)](https://github.com/matthew-william-lock/Sonar-Imaging-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Image-Masking-Accelerator&title_color=1954A5)](https://github.com/matthew-william-lock/Image-Masking-Accelerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WaveformGenerator&title_color=1954A5)](https://github.com/matthew-william-lock/FPGA-WaveformGenerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WallClock&title_color=1954A5)](https://github.com/matthew-william-lock/FPGA-WallClock)
 
 ## :earth_africa: Backend, Front-End & Full-Stack Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Real-Time-Chat-Room&title_color=1954A5)](https://github.com/matthew-william-lock/Real-Time-Chat-Room)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=outreach-dashboard&title_color=1954A5)](https://github.com/matthew-william-lock/outreach-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Real-Time-Chat-Room&title_color=1954A5)](https://github.com/matthew-william-lock/Real-Time-Chat-Room)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Simple-Weather-Web-Application&title_color=1954A5)](https://github.com/matthew-william-lock/Simple-Weather-Web-Application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=task-manager-application&title_color=1954A5)](https://github.com/matthew-william-lock/task-manager-application)
