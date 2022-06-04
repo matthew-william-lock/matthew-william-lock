@@ -20,7 +20,7 @@
       
 <p align="center">
   <!-- <a href="#about">Website</a> • -->
-  <a href="#electric_plug-embedded-systems-projects">Machine Learning</a> •
+  <a href="#-machine-learning-projects">Machine Learning</a> •
   <a href="#electric_plug-embedded-systems-projects">Embedded Systems</a> •
   <a href="#earth_africa-backend-front-end--full-stack-projects">Web Development</a> •
   <a href="#envelope-contact">Contact</a>
