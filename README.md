@@ -3,7 +3,7 @@
   <a href="https://github.com/matthew-william-lock"><img src="https://github.com/matthew-william-lock/matthew-william-lock/blob/main/images/banner.png" alt="Matthew William Lock"></a>
 </h1>
 
-<h4 align="center"><i>Aspiring Engineer studying towards an MSc in Embedded Systems Engineering at the KTH Royal Institute of Technology.</i></h4>
+<h4 align="center"><i>Aspiring Engineer completing an MSc in Embedded Systems Engineering at the KTH Royal Institute of Technology.</i></h4>
 
 <p align="center">
     <a href="https://github.com/matthew-william-lock/matthew-william-lock">
