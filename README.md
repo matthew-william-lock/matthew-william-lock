@@ -37,6 +37,8 @@ Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Image-Masking-Accelerator&title_color=1954A5?)](https://github.com/matthew-william-lock/Image-Masking-Accelerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WaveformGenerator&title_color=1954A5?)](https://github.com/matthew-william-lock/FPGA-WaveformGenerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=FPGA-WallClock&title_color=1954A5?)](https://github.com/matthew-william-lock/FPGA-WallClock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=MQTT-Gate-Opener&title_color=1954A5?)](https://github.com/matthew-william-lock/MQTT-Gate-Opener)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=environmental-logger&title_color=1954A5?)](https://github.com/matthew-william-lock/environmental-logger)
 
 ## :earth_africa: Backend, Front-End & Full-Stack Projects
 
