@@ -21,7 +21,7 @@
 <p align="center">
   <a href="#about">Website</a> •
   <a href="#installation">Projects</a> •
-  <a href="#Contact">Contact</a>
+  <a href="envelope-contact">Contact</a>
 </p>
 
 <!-- ## :open_hands: About Me  -->
@@ -50,7 +50,7 @@ Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/)
 ## :envelope: Contact
 
 <p align="center">
-Feel free to get in touch! 
+Feel free to get in touch! </br>
 <a href="https://github.com/matthew-william-lock/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=1954A5" />
 </a>
