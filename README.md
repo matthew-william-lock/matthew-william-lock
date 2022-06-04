@@ -21,7 +21,7 @@
 <p align="center">
   <a href="#about">Website</a> •
   <a href="#installation">Projects</a> •
-  <a href="envelope-contact">Contact</a>
+  <a href="#envelope-contact">Contact</a>
 </p>
 
 <!-- ## :open_hands: About Me  -->
