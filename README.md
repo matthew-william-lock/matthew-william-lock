@@ -21,7 +21,7 @@
 <p align="center">
   <a href="#about">Website</a> •
   <a href="#installation">Projects</a> •
-  <a href="#license">Contact</a>
+  <a href="#Contact">Contact</a>
 </p>
 
 <!-- ## :open_hands: About Me  -->
@@ -46,6 +46,18 @@ Currently, I am an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Real-Time-Chat-Room&title_color=1954A5?)](https://github.com/matthew-william-lock/Real-Time-Chat-Room)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Simple-Weather-Web-Application&title_color=1954A5?)](https://github.com/matthew-william-lock/Simple-Weather-Web-Application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=task-manager-application&title_color=1954A5?)](https://github.com/matthew-william-lock/task-manager-application)
+
+## :envelope: Contact
+
+<p align="center">
+Feel free to get in touch! 
+<a href="https://github.com/matthew-william-lock/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=1954A5" />
+</a>
+<a href="mailto:matthew-william-lock@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-Say%20hi!-informational?style=flat&logo=Gmail&logoColor=white&color=1954A5" />
+</a>
+</p>
 
 
 <!--
