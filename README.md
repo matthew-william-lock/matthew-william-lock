@@ -20,10 +20,10 @@
       
 <p align="center">
   <!-- <a href="#about">Website</a> • -->
-  <a href="#robot-robots-estimation-and-control">Robotics</a> •
+  <a href="#-robot-robots-estimation-and-control">Robotics</a> •
   <a href="#-machine-learning-projects">Machine Learning</a> •
-  <a href="#embedded-systems-projects">Embedded Systems</a> •
-  <a href="#backend-front-end--full-stack-projects">Web Development</a> •
+  <a href="#-embedded-systems-projects">Embedded Systems</a> •
+  <a href="#-backend-front-end--full-stack-projects">Web Development</a> •
   <a href="#envelope-contact">Contact</a>
 </p>
 
