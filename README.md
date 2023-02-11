@@ -38,6 +38,7 @@ I am passionate about the application of embedded systems and machine learning t
 ## 🤖 Robots, Estimation and Control
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=teensy-vs-upduino-particle-filter&title_color=1954A1?)](https://github.com/matthew-william-lock/teensy-vs-upduino-particle-filter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Adaptive-Colour-Based-Particle-Filter&title_color=1954A1?)](https://github.com/matthew-william-lock/Adaptive-Colour-Based-Particle-Filter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=webots_ros2_jetbot&title_color=1954A1?)](https://github.com/matthew-william-lock/webots_ros2_jetbot)
 
 
 ## 🧠 Machine Learning Projects
