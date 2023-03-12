@@ -1,7 +1,7 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <br>
   <a href="https://github.com/matthew-william-lock"><img src="https://github.com/matthew-william-lock/matthew-william-lock/blob/main/images/banner.png" alt="Matthew William Lock"></a>
-</h1>
+</h1> -->
 
 <h4 align="center"><i>Aspiring Engineer completing an MSc in Embedded Systems Engineering at the KTH Royal Institute of Technology.</i></h4>
 
@@ -30,7 +30,7 @@
 <!-- ## :open_hands: About Me  -->
  <hr />
 
-I am *Matt*, an Embedded Control engineer from South Africa <img src="https://cdn-icons-png.flaticon.com/512/197/197562.png" width="13"/> with a passion for robotics. I graduated with a Bachelor of Science in Electrical and Computer Engineering from the [University of Cape Town](http://www.uct.ac.za/) in July 2021 and am completing an MSc in Embedded Systems Engineering at the [KTH Royal Institute of Technology](https://www.kth.se/) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>.  
+Embedded Control engineer from South Africa <img src="https://cdn-icons-png.flaticon.com/512/197/197562.png" width="13"/> with a passion for robotics. I graduated with a Bachelor of Science in Electrical and Computer Engineering from the [University of Cape Town](http://www.uct.ac.za/) in July 2021 and am completing an MSc in Embedded Systems Engineering at the [KTH Royal Institute of Technology](https://www.kth.se/) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>.  
 
 I am passionate about the application of embedded systems and machine learning to robotics and autonomous systems for sustainable development, and currently work as an Embedded Systems Engineer at [Ecobloom](https://ecobloom.se/) and an Assistant Researcher at the [Swedish Maritime Robotics Centre (SMaRC)](https://smarc.se/).
 
@@ -39,6 +39,7 @@ I am passionate about the application of embedded systems and machine learning t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=teensy-vs-upduino-particle-filter&title_color=1954A1?)](https://github.com/matthew-william-lock/teensy-vs-upduino-particle-filter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=Adaptive-Colour-Based-Particle-Filter&title_color=1954A1?)](https://github.com/matthew-william-lock/Adaptive-Colour-Based-Particle-Filter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=webots_ros2_jetbot&title_color=1954A1?)](https://github.com/matthew-william-lock/webots_ros2_jetbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-william-lock&repo=webots_ros2_conveyor&title_color=1954A1?)](https://github.com/matthew-william-lock/webots_ros2_conveyor)
 
 
 ## 🧠 Machine Learning Projects
